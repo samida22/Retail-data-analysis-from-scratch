@@ -1,10 +1,5 @@
 # Retail-data-analysis-from-scratch
 Analysing the retail data, extracting the insights for business accumen.
-<<<<<<< HEAD
- 
- Retail Data analysis with the UCI data set.
- 
-=======
  Retail Data analysis with the UCI data set.
 
  
@@ -47,4 +42,3 @@ Link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 5. Interpretations
 6. key Take away
    
->>>>>>> cff28c05c199e1a878f4fdb311d207c52ffd3793
