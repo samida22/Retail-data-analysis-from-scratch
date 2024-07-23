@@ -58,11 +58,11 @@ file name:  Retail_data_powerBI.pbix
 
 1. The three csv files are used which is the results of above analysis for the purpose of visualizations namely:
    
- a. churned_repeat_purchase_rate.csv
- 
- b. retail_data (ORIGINAL DATASET CLEANED)
- 
- C. rfm_with_promotions
+     a. churned_repeat_purchase_rate.csv
+     
+     b. retail_data (ORIGINAL DATASET CLEANED)
+     
+     C. rfm_with_promotions
 
 2. calculated columns are created for finding the Total_Sales.
 3. created the graphs for sales analysis with slicer use.
