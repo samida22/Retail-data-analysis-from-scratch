@@ -29,6 +29,7 @@ Link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 # Process involved and implemented:
 
 1. Data preprocessing
+   
     1.1 Data Cleanings
 
     1.2 Exploratiry data analysis
@@ -37,19 +38,19 @@ Link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
        1.2.2 Multi variate analysis
    
-3. Data analysis implementations
-   3.1 product analysis
+2. Data analysis implementations
+   2.1 product analysis
    
-   3.2 sales analysis
+   2.2 sales analysis
    
-   3.3 customer segmentations
+   2.3 customer segmentations
    
-     3.3.1 personalized marketing strategies
+     2.3.1 personalized marketing strategies
    
-   3.4 customer churn analysis
+   2.4 customer churn analysis
    
-   3.5 Repeat purchase rate analysis.
+   2.5 Repeat purchase rate analysis.
    
-5. Interpretations
-6. key Take away
+3. Interpretations
+4. key Take away
    
