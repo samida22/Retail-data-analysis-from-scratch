@@ -13,6 +13,7 @@ Analysing the retail data, extracting the insights for business accumen.
 # Dataset Description
 The dataset used in this analysis is sourced from the UCI Machine Learning Repository. It is known as the "Online Retail" dataset, which contains transactional data.
 The dataset comprises approximately 540,000 rows and 8 columns, detailing transactions occurring from December 1, 2010, to December 9, 2011.
+Link : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 # Columns
 
@@ -39,5 +40,5 @@ The dataset comprises approximately 540,000 rows and 8 columns, detailing transa
    d. customer churn analysis
    e. Repeat purchase rate analysis. 
 5. Interpretations
-6. Take away
+6. key Take away
    
